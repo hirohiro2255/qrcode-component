@@ -38,7 +38,7 @@ body {
 .qr-img {
   display: block;
   width: 92%;
-  height: 92%;
+  height: 90%;
   border-radius: 15px;
   border-bottom: 3rem;
 }
